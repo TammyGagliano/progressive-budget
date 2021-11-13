@@ -4,12 +4,12 @@ const DATA_CACHE_NAME = "data-cache-v1";
 
 var urlsToCache = [
   '/',
-  '/public/db.js',
-  '/public/index.js',
+  '/db.js',
+  '/index.js',
   '/styles.css',
   '/manifest.json',
-  '/public/icons/icon-192x192.png',
-  '/public/icons/icon-512x512.png', 
+  '/icons/icon-192x192.png',
+  '/icons/icon-512x512.png', 
 ];
 
 // install callback, open cache, cache files, confirm cache
